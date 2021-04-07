@@ -1,6 +1,1 @@
 remote_theme: rundocs/jekyll-rtd-theme
-
-css: |
-.header.d-flex.flex-column.p-3.text-center {
-    background: brown;
-}
