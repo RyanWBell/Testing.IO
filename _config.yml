@@ -1,5 +1,6 @@
 remote_theme: rundocs/jekyll-rtd-theme
-toc:
-  - title: Group 1
-  subfolderitems:
-    - page: Readme.md  
+
+css: |
+.header.d-flex.flex-column.p-3.text-center {
+    background: brown;
+}
