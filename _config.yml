@@ -1,1 +1,5 @@
 remote_theme: rundocs/jekyll-rtd-theme
+toc:
+  - title: Group 1
+  subfolderitems:
+    - page: Readme.md  
