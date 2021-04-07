@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/style.scss">
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RyanWBell/Testing.IO/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
